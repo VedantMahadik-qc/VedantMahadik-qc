@@ -1,7 +1,12 @@
 ### Hi, I'm Vedant 👋
 
-* 🎓 I'm a graduate student in **Quantum Technologies** at **University College London (UCL)**.
-* ⚛️ I'm passionate about quantum machine learning, quantum algorithms, and building scalable quantum software.
-* 🔬 My MSc project involves the simulation of the **Jaynes-Cummings-Hubbard model** using **QuTiP**, **Julia**, and **Qiskit**.
-* 📫 How to reach me: https://www.linkedin.com/in/vedant-mahadik-cr2100/
-- ⚡ Fun fact: If you travel back in time and kill your grandfather, then...........
+MSc Quantum Technologies student at UCL (graduating Sep 2026), building
+tested, production-grade quantum software — Qiskit, PennyLane, Julia/CUDA.jl.
+
+- 🔭 Currently: high-performance many-body quantum simulation (MSc project,
+  JCH lattice) and a from-scratch UCCSD VQE / quantum chemistry benchmarking project
+- 🌱 Open source: active contributor to [Qiskit](https://github.com/Qiskit/qiskit/pull/16675)
+  and [PennyLane](https://github.com/PennyLaneAI/pennylane/pull/9863) — both under maintainer review
+- ⚡ Applied quantum sensing to EV battery diagnostics — Innovate UK feasibility study (Q-BATT)
+- 🇬🇧 Right to work: UK Graduate Route eligible from Sept 2026 (2 yrs, unrestricted)
+- 📫 vedantm2100@gmail.com · [LinkedIn](https://linkedin.com/in/vedant-mahadik-cr2100)
