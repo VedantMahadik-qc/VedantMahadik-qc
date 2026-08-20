@@ -8,5 +8,4 @@ tested, production-grade quantum software — Qiskit, PennyLane, Julia/CUDA.jl.
 - 🌱 Open source: active contributor to [Qiskit](https://github.com/Qiskit/qiskit/pull/16675)
   and [PennyLane](https://github.com/PennyLaneAI/pennylane/pull/9863) — both under maintainer review
 - ⚡ Applied quantum sensing to EV battery diagnostics — Innovate UK feasibility study (Q-BATT)
-- 🇬🇧 Right to work: UK Graduate Route eligible from Sept 2026 (2 yrs, unrestricted)
 - 📫 vedantm2100@gmail.com · [LinkedIn](https://linkedin.com/in/vedant-mahadik-cr2100)
