@@ -24,11 +24,4 @@ MSc Quantum Technologies, UCL (2026) · London · Open to Quantum Software, Rese
 Python · Julia · CUDA.jl · Qiskit · PennyLane · QuTiP · PySCF · C++17 · pytest · GitHub Actions
 
 📫 vedantm2100@gmail.com · [LinkedIn](https://www.linkedin.com/in/vedant-mahadik-cr2100)
-- Unitary Foundation qldpc-challenge: [PR #2128](LINK) (merged)
-- Qiskit: [PR #16675](https://github.com/Qiskit/qiskit/pull/16675) (in review)
-- PennyLane: [PR #9863](https://github.com/PennyLaneAI/pennylane/pull/9863) (in review)
 
-## Stack
-Python · Julia · CUDA.jl · Qiskit · PennyLane · QuTiP · PySCF · C++17 · pytest · GitHub Actions
-
-📫 vedantm2100@gmail.com · [LinkedIn](https://www.linkedin.com/in/vedant-mahadik-cr2100)
