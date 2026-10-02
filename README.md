@@ -16,7 +16,7 @@ MSc Quantum Technologies, UCL (2026) · London · Open to Quantum Software, Rese
   4K frames in ~10 s on an RTX 4070
 
 ## Open source
-- Unitary Foundation qldpc-challenge: [PR #2128](LINK) (merged)
+- Unitary Foundation qldpc-challenge: [PR #2128] (merged)
 - Qiskit: [PR #16675](https://github.com/Qiskit/qiskit/pull/16675) (in review)
 - PennyLane: [PR #9863](https://github.com/PennyLaneAI/pennylane/pull/9863) (in review)
 
