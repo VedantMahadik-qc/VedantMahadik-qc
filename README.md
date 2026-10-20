@@ -7,7 +7,7 @@ MSc Quantum Technologies, UCL (2026) · London · Open to Quantum Software, Rese
 
 ## Highlights
 - **qLDPC distance bound:** lowered the best-known distance bound of a [[630, 24]] generalized-bicycle
-  code from 90 to 60 on the Unitary Foundation qLDPC challenge ([PR #2128](LINK), merged)
+  code from 90 to 60 on the Unitary Foundation qLDPC challenge ([PR #2128], merged)
 - **[JCH-Simulation](https://github.com/VedantMahadik-qc/JCH-Simulation):** MSc dissertation; validated
   solvers, Julia 3–5× faster than QuTiP, CUDA.jl GPU offload
 - **[quantum-chemistry-benchmarks](https://github.com/VedantMahadik-qc/quantum-chemistry-benchmarks):**
