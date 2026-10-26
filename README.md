@@ -1,7 +1,6 @@
 # Hi, I'm Vedant
 
-Quantum software engineer. I don't trust a simulator until it matches an exact answer, so I build
-quantum and scientific software in Python and Julia, check it against known results, then make it fast.
+Quantum software engineer. I build quantum and scientific software in Python and Julia, check it against known results, then make it fast.
 
 MSc Quantum Technologies, UCL (2026) · London · Open to Quantum Software, Research Software and HPC roles
 
