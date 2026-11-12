@@ -31,8 +31,15 @@ MSc Quantum Technologies, UCL (2026) · London · Open to Quantum Software, Rese
 - PennyLane: [#9863](https://github.com/PennyLaneAI/pennylane/pull/9863) `debug_probs` crash fix (in review)
 
 ## Also building
-- **[quantum-magnav-uk](https://github.com/VedantMahadik-qc/quantum-magnav-uk):** Rust particle-filter
-  simulation of magnetic-anomaly navigation over Great Britain (in progress)
+- **[quantum-magnav-uk](https://github.com/VedantMahadik-qc/quantum-magnav-uk):** where in the UK can you
+  navigate without GPS? Rust particle filter flown over the real BGS aeromagnetic map, with a realistic
+  HG4930 INS outage; national constant-altitude grids next (in progress)
+- **[Entangled Heat](https://github.com/VedantMahadik-qc/entangled-heat):** GTA V mod for Moth's Quantum Mod
+  Bounty (C#); police cars are entangled qubit pairs and portal exits come from Quantum Blur, all measured
+  live on Moth Atlas
+- **[Signal in the Bush](https://github.com/VedantMahadik-qc/signal-in-the-bush):** Qollab × IonQ hackathon;
+  anti-poaching sensor placement from real elephant GPS-collar data, solved as a QUBO with QAOA and checked
+  against the exact classical optimum
 - **[f1-quantum-pit-strategy](https://github.com/VedantMahadik-qc/f1-quantum-pit-strategy):** does QAOA
   beat classical heuristics on Safety-Car pit decisions once brute force stops being an option?
 - **[fpl_ml_pipeline](https://github.com/VedantMahadik-qc/fpl_ml_pipeline):** XGBoost points forecasts +
@@ -48,6 +55,6 @@ MSc Quantum Technologies, UCL (2026) · London · Open to Quantum Software, Rese
   health; SoH error 4.07% → 2.46% on synthetic data, poster at Innovate UK's quantum-sensing transport event
 
 ## Stack
-Python · Julia · CUDA.jl · Rust · Qiskit · PennyLane · QuTiP · Stim · PyMatching · PySCF · C++17 · pytest · GitHub Actions
+Python · Julia · CUDA.jl · Rust · C# · Qiskit · PennyLane · QuTiP · Stim · PyMatching · PySCF · C++17 · pytest · GitHub Actions
 
 📫 vedantm2100@gmail.com · [LinkedIn](https://www.linkedin.com/in/vedant-mahadik-cr2100)
